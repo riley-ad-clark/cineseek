@@ -1,0 +1,110 @@
+.search-box {
+    justify-content: center;
+    flex-direction: row;
+}
+
+.search-options {
+    position: relative;
+}
+
+.search-results {
+    background-color: #fff;
+    position: absolute;
+    max-width: 400px;
+    border: #d5d3d3 1px solid;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+
+.search-content-not-found {
+    width: 400px;
+    margin: 5px;
+}
+
+.search-content {
+    width: 400px;
+    transition: 0.3s;
+    margin: 5px
+}
+
+.search-content:hover {
+    color: #fb7a24;
+    transition: 0.3s;
+}
+
+.search-button,
+.search-bar {
+    padding: 7px 10px;
+    border-radius: 8px;
+}
+
+.search-bar {
+    width: 400px;
+}
+
+.search-button {
+    background-color: #ff7e26;
+    color: white;
+    transition: 0.3s;
+}
+
+.search-button:hover {
+    background-color: #fb7a24;
+    transition: 0.3s;
+}
+
+.search-box {
+    margin-top: 20px;
+}
+
+.search-bar {
+    margin-right: 10px;
+    border: #d5d3d3 1px solid;
+}
+
+/* movie box design */
+
+.movie-box {
+    margin-top: 20px;
+    visibility: hidden;
+    width: 800px;
+    height: 300px;
+}
+
+.movie-image {
+    margin-right: 40px;
+    align-self: center;
+}
+
+.movie-poster {
+    height: 300px;
+}
+
+.movie-details {
+    align-self: center;
+}
+
+.inner-details {
+    margin-top: 8px;
+}
+
+.seperator {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.category {
+    background-color: #d5d3d3;
+    border-radius:8px;
+    padding: 7px 10px;
+    margin-right: 20px;
+}
+
+
+.movie-description {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    max-width: 500px;
+}
