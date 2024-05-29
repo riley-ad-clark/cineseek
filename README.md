@@ -11,4 +11,4 @@ Cineseek is a platform that fetches movies, and movie details based on user inpu
 </p>
 
 ## Demo 
-<a href="https://raw.githubusercontent.com/riley-ad-clark/cineseek">Click here</a> to visit the demo site for this project!
+<a href="riley-ad-clark.github.io/cineseek/ ">Click here</a> to visit the demo site for this project!
