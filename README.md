@@ -9,6 +9,3 @@ Cineseek is a platform that fetches movies, and movie details based on user inpu
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
-
-## Demo 
-<a href="riley-ad-clark.github.io/cineseek/ ">Click here</a> to visit the demo site for this project!
